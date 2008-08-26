@@ -1,0 +1,43 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+5 sprites :
+  resume_btn : 256colors, 64x32, Pal : resume_btn_Pal, -> resume_btn_Sprite
+  extras_btn : 256colors, 64x32, Pal : extras_btn_Pal, -> extras_btn_Sprite
+  next : 256colors, 64x32, Pal : next_Pal, -> next_Sprite
+  praywithme : 256colors, 64x32, Pal : praywithme_Pal, -> praywithme_Sprite
+  start_disabled : 256colors, 64x32, Pal : start_disabled_Pal, -> start_disabled_Sprite
+
+9 backgrounds :
+  WordScreen : TileBg, 256x192, Pal : WordScreen_Pal, 256 tiles -> WordScreen_Tiles and WordScreen_Map
+  JSDSCopyright : TileBg, 256x192, Pal : JSDSCopyright_Pal, 81 tiles -> JSDSCopyright_Tiles and JSDSCopyright_Map
+  JSDSSplash : TileBg, 256x192, Pal : JSDSSplash_Pal, 709 tiles -> JSDSSplash_Tiles and JSDSSplash_Map
+  RosaryBottom : TileBg, 256x192, Pal : RosaryBottom_Pal, 556 tiles -> RosaryBottom_Tiles and RosaryBottom_Map
+  RosaryBottomMix : TileBg, 256x192, Pal : RosaryBottomMix_Pal, 568 tiles -> RosaryBottomMix_Tiles and RosaryBottomMix_Map
+  RosaryDSMenuBkg : TileBg, 256x192, Pal : RosaryDSMenuBkg_Pal, 768 tiles -> RosaryDSMenuBkg_Tiles and RosaryDSMenuBkg_Map
+  RosaryDSTitle : TileBg, 256x192, Pal : RosaryDSTitle_Pal, 733 tiles -> RosaryDSTitle_Tiles and RosaryDSTitle_Map
+  RosaryTop : TileBg, 256x192, Pal : RosaryTop_Pal, 768 tiles -> RosaryTop_Tiles and RosaryTop_Map
+  RosaryTopMix : TileBg, 256x192, Pal : RosaryTopMix_Pal, 578 tiles -> RosaryTopMix_Tiles and RosaryTopMix_Map
+
+14 palettes :
+  resume_btn_Pal, 52 colors
+  extras_btn_Pal, 49 colors
+  next_Pal, 211 colors
+  praywithme_Pal, 209 colors
+  start_disabled_Pal, 57 colors
+  WordScreen_Pal, 162 colors
+  JSDSCopyright_Pal, 74 colors
+  JSDSSplash_Pal, 189 colors
+  RosaryBottom_Pal, 178 colors
+  RosaryBottomMix_Pal, 183 colors
+  RosaryDSMenuBkg_Pal, 110 colors
+  RosaryDSTitle_Pal, 249 colors
+  RosaryTop_Pal, 256 colors
+  RosaryTopMix_Pal, 227 colors
+
+Converted in 0 minutes 1 seconds
+
+Finished !
